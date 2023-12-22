@@ -5,4 +5,4 @@
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jxxxxxgl" /> </div>
 <span > <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Go-1572B6?style=flat-square&logo=Go" /> <img src="https://img.shields.io/badge/-Rust-oringe?style=flat-square&logo=Rust" /> </span>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=jxxxxxgl" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jxxxxxgl&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jxxxxxgl&theme=dracula" /> </div>
