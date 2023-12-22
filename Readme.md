@@ -4,5 +4,5 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxxxgl&count_private=true&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jxxxxxgl" /> </div>
 <span > <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Go-1572B6?style=flat-square&logo=Go" /> <img src="https://img.shields.io/badge/-Rust-oringe?style=flat-square&logo=Rust" /> </span>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=jxxxxxgl" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=jxxxxxgl&left_color=green&right_color=red" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jxxxxxgl&theme=dracula" /> </div>
