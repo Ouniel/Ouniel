@@ -1,15 +1,8 @@
 <h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
-<p align="center">
-      <img alt="GitHub Contributors" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
-      <img alt="GitHub Contributors" src="https://img.shields.io/badge/GO-blue?style=for-the-badge&logo=Go&logoColor=red" />
-      <img alt="GitHub Contributors" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=red" />
-</p>
-
-
-
-<a href="https://github.com/jxxxxxgl">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=jxxxxxgl"/>
-</a>
-<a href="https://github.com/RuoJi6/HackerPermKeeper/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxxxxxgl&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center"> <img src="https://metrics.lecoq.io/jxxxxxgl?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jxxxxxgl&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxxxgl&count_private=true&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jxxxxxgl" /> </div>
+<span > <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Go-1572B6?style=flat-square&logo=Go" /> <img src="https://img.shields.io/badge/-Rust-oringe?style=flat-square&logo=Rust" /> </span>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=jxxxxxgl" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jxxxxxgl&theme=xcode" /> </div>
